@@ -1,0 +1,19 @@
+{
+  "name": "mycontacts-backend-api",
+  "version": "1.0.0",
+  "description": "express projects for my contacts backend api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SatyanarayanPatra/Depesh-Malvia-BE.git"
+  },
+  "author": "Satyanarayan Patra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SatyanarayanPatra/Depesh-Malvia-BE/issues"
+  },
+  "homepage": "https://github.com/SatyanarayanPatra/Depesh-Malvia-BE#readme"
+}
